@@ -1,2 +1,1 @@
-# PROJETO-FINAL
-Projeto Final do Curso HTML E CSS Essencial/2023
+Projeto Final - CAKE SWEET HOME + Complementando o Projeto com JavaScript
